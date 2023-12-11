@@ -3,7 +3,7 @@
 //которая покажет количество чётных чисел в
 //массиве
 
-int lenght = 10, i = 0, count = 0, chet = 0;
+int lenght = 10, i = 0, chet = 0;
 int[] n = new int[lenght];
 
 Random rand = new Random();
